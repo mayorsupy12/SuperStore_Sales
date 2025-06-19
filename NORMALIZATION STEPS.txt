@@ -1,0 +1,9 @@
+NORMALIZATION STEPS
+
+1. the dataset with  xlsx file was used
+2. another sheet was created for subcategory table adding row id to make the primary key
+3. another sheet was created for category table adding row id to make the primary key 
+4. another sheet was created for product table. needed foreign key was also added
+5. irregular characters like "" was removed from product names
+6. while importing from excel sheet to sql table, duplicates was automatically remove due to the primary key assigned to columns with ID
+7  order date and ship date columns format was changed and data type also was updated from varchar to Date in sql.

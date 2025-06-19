@@ -1,0 +1,24 @@
+ INSIGHTS AND RECCOMENDATION
+
+1. Customer Insights
+The top 5 customers contribute disproportionately to total sales and profit — consider loyalty programs or exclusive offers for this group.
+
+
+2. Regional Performance
+Western and Central regions show strong profits and sales — but some regions may have high sales but lower profits due to shipping or discount costs.
+
+
+
+3. Top Products & Categories
+Top-selling sub-categories like "Phones" and "Chairs" dominate sales volume.
+
+However, not all top sellers are the most profitable. Categories like "Binders" sell well but have lower margins
+
+4. Sales & Profit Trends
+Year-over-Year (YoY) sales growth shows consistent increases, but the rate of growth may be slowing — indicating a need to either expand the customer base or improve product offerings..
+
+5. Discount Optimization:
+Implement tighter discount controls (e.g. 25% max) in high-loss states to restore profit
+
+6. Prioritize profitable states:
+Invest in marketing and expansion in strong states like California, New York, and Washington.
